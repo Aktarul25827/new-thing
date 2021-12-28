@@ -1,0 +1,34 @@
+    h1{
+        text-align: center;
+        color: rgb(214, 0, 0);
+    }
+    img{
+        height: 200px; width: 300;
+    }
+    p{
+        text-align: center;
+        color: rgb(0, 0, 184);
+    }
+    table,td,th{
+        border: 1px solid black; 
+        border-collapse: collapse;
+        text-align: center;
+        background-color: rgb(68, 68, 255);
+        color:solid black;
+    }
+    table{
+        height: 150px; width: 200px;
+        
+    }
+    caption{color: red;}
+    div{
+        color: darkblue;
+    }
+    font{
+        color: red;
+        font-size: 30px;
+    }
+    #top{
+        font-size: 50px;
+    }
+
